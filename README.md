@@ -48,13 +48,13 @@ The D2Coding font provides [ligature](https://en.wikipedia.org/wiki/Typographic_
 Add the following code to the header section of the HTML document:
 
 ```html
-<link href="http://cdn.jsdelivr.net/gh/joungkyun/font-d2coding-ligature/d2coding.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.jsdelivr.net/gh/joungkyun/font-d2coding-ligature/d2coding-ligature.css" rel="stylesheet" type="text/css">
 ```
 
 Or, if you want to add a ___specific version___:
 
 ```html
-<link href="http://cdn.jsdelivr.net/gh/joungkyun/font-d2coding-ligature@1.3.2/d2coding.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.jsdelivr.net/gh/joungkyun/font-d2coding-ligature@1.3.2/d2coding-ligature.css" rel="stylesheet" type="text/css">
 ```
 
 ### 2. Using download package
