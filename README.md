@@ -40,6 +40,12 @@ The [D2Coding](https://github.com/naver/d2codingfont) font is Korean developed f
 
 The D2Coding font provides [ligature](https://en.wikipedia.org/wiki/Typographic_ligature) functionality since version 1.3. And because of the 50M restriction policy of jsdelivr, we branch out separately to the [D2Coding web font](https://github.com/Joungkyun/font-d2coding) repository.
 
+For original and subset fonts, use the following repository:
+
+- Origianl D2Coding Webfont: http://github.com/Joungkyun/font-d2coding
+- Origianl D2Coding subset Webfont: http://github.com/Joungkyun/font-d2coding-subset
+- D2Coding ligature subset Webfont: http://github.com/Joungkyun/font-d2coding-ligature-subset
+
 
 ## Installation
 
