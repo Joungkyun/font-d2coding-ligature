@@ -110,7 +110,7 @@ Adding to CSS:
 
 ```css
 body {
-	font-family: D2Coding ligature, 'D2 coding Ligature', monosapce;
+	font-family: D2Coding ligature, 'D2 coding Ligature', monospace;
 }
 ```
 
