@@ -1,4 +1,4 @@
-D2Coding Legature Web Fonts
+D2Coding Ligature Web Fonts
 ====
 [![D2Coding license](https://img.shields.io/badge/License-OFL-blue.svg)](https://raw.githubusercontent.com/Joungkyun/font-d2coding/master/license)
 
@@ -110,7 +110,7 @@ Adding to CSS:
 
 ```css
 body {
-	font-family: D2Coding ligature, 'D2 coding Ligature', monosapce;
+	font-family: D2Coding ligature, 'D2 coding Ligature', monospace;
 }
 ```
 
